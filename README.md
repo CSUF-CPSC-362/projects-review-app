@@ -3,8 +3,9 @@
 
 Before starting the app, install the dependencies for both the client and server:
 
-required node version: v14.9.0
-npm version: 16.14.8
+required node version: `v14.9.0`
+
+npm version: `16.14.8`
 
 1. Navigate to the client directory and install dependencies:
     ```sh
